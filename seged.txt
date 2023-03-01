@@ -1,0 +1,1 @@
+ <Image  source={{uri: 'http://joszai-attila-back.dszcbaross.tk/'+item.alkatresz_nev}} style={{width:300,height:300,marginLeft:"auto",marginRight:"auto"}} />  
